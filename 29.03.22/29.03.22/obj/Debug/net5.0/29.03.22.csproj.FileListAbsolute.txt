@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.AssemblyInfo.cs
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\29.03.22.exe
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\29.03.22.deps.json
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\29.03.22.runtimeconfig.json
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\29.03.22.runtimeconfig.dev.json
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\29.03.22.dll
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\ref\29.03.22.dll
+C:\Users\User\source\repos\29.03.22\29.03.22\bin\Debug\net5.0\29.03.22.pdb
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.dll
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\ref\29.03.22.dll
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.pdb
+C:\Users\User\source\repos\29.03.22\29.03.22\obj\Debug\net5.0\29.03.22.genruntimeconfig.cache
