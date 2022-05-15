@@ -1,0 +1,16 @@
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.csproj.AssemblyReference.cache
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.AssemblyInfoInputs.cache
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.AssemblyInfo.cs
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.csproj.CoreCompileInputs.cache
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\05.04.22.exe
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\05.04.22.deps.json
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\05.04.22.runtimeconfig.json
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\05.04.22.runtimeconfig.dev.json
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\05.04.22.dll
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\ref\05.04.22.dll
+D:\projects\05.04.22\05.04.22\bin\Debug\net5.0\05.04.22.pdb
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.dll
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\ref\05.04.22.dll
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.pdb
+D:\projects\05.04.22\05.04.22\obj\Debug\net5.0\05.04.22.genruntimeconfig.cache
