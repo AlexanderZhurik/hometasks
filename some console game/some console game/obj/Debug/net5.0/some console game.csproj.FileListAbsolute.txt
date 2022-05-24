@@ -1,0 +1,16 @@
+D:\projects\some console game\some console game\bin\Debug\net5.0\some console game.exe
+D:\projects\some console game\some console game\bin\Debug\net5.0\some console game.deps.json
+D:\projects\some console game\some console game\bin\Debug\net5.0\some console game.runtimeconfig.json
+D:\projects\some console game\some console game\bin\Debug\net5.0\some console game.runtimeconfig.dev.json
+D:\projects\some console game\some console game\bin\Debug\net5.0\some console game.dll
+D:\projects\some console game\some console game\bin\Debug\net5.0\ref\some console game.dll
+D:\projects\some console game\some console game\bin\Debug\net5.0\some console game.pdb
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.AssemblyInfoInputs.cache
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.AssemblyInfo.cs
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.csproj.CoreCompileInputs.cache
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.dll
+D:\projects\some console game\some console game\obj\Debug\net5.0\ref\some console game.dll
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.pdb
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.genruntimeconfig.cache
+D:\projects\some console game\some console game\obj\Debug\net5.0\some console game.csproj.AssemblyReference.cache
